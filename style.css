@@ -1,0 +1,36 @@
+body {
+    background-image: url("./assets/images/polka-dots.png")
+}
+
+.img-1 {
+    width: 60px;
+    height: 60px;
+    margin: 15px;
+    float: left;
+}
+
+.img-2 {
+    width: 60px;
+    height: 60px;
+    margin: 15px;
+    float: left;
+}
+
+.img-3 {
+    width: 60px;
+    height: 60px;
+    margin: 15px;
+    float: left;
+}
+
+
+
+.card-title {
+    border-bottom: solid;
+    border-color: black;
+    color: teal;
+}
+
+.card {
+    margin: 10px;
+}
