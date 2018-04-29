@@ -1,26 +1,27 @@
-body {
-    background-image: url("./assets/images/polka-dots.png")
+
+.cont {
+    background-image: url("./assets/images/polka-dots.png");
 }
 
 .img-1 {
     width: 60px;
     height: 60px;
-    margin: 15px;
-    float: left;
+    margin: 10px;
+    /* float: left; */
 }
 
 .img-2 {
     width: 60px;
     height: 60px;
-    margin: 15px;
-    float: left;
+    margin: 10px;
+    /* float: left; */
 }
 
 .img-3 {
     width: 60px;
     height: 60px;
-    margin: 15px;
-    float: left;
+    margin: 10px;
+    /* float: left; */
 }
 
 
@@ -34,3 +35,59 @@ body {
 .card {
     margin: 10px;
 }
+
+.navbar-brand {
+    margin: 0 center;
+}
+
+.hang {
+    background-color: teal;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    overflow: auto;
+    margin-bottom: 2%;
+} 
+
+.rpg {
+    background-color: teal;
+    padding: 5px;
+    color: white;
+    text-align: center;
+    overflow: auto;
+    margin-bottom: 2%;
+} 
+
+.trivia {
+    background-color: teal;
+    padding: 5px;
+    color: white;
+    text-align: center;
+    overflow: auto;
+    margin-bottom: 2%;
+} 
+
+.rutgers {
+    background-color: teal;
+    padding: 5px;
+    color: white;
+    text-align: center;
+    overflow: auto;
+    margin-bottom: 2%;
+} 
+
+.rock {
+    background-color: teal;
+    padding: 5px;
+    color: white;
+    text-align: center;
+    overflow: auto;
+    margin-bottom: 2%;
+} 
+
+
+
+
+
+
+
